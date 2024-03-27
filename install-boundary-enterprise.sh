@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Detect OS:
 
 # Ubuntu/Debian install:
